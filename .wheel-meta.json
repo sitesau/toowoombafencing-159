@@ -1,0 +1,22 @@
+{
+  "wheel_id": 817,
+  "structure": "umbrella",
+  "slug": "toowoombafencing-159",
+  "project": "fencing-contractors-toowoomba-signs-you-need-364c3a20a1881fde37",
+  "parent_t1_ref": "toowoombafencing-009",
+  "node_role": "buffer",
+  "money_target": "toowoombafencing.au",
+  "primary_kw": "fencing contractors toowoomba signs you need",
+  "intended_url": "https://sitesau.github.io/toowoombafencing-159/",
+  "tier": "T2",
+  "writeback_nonce": "7265cba178b4aa49",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/fencing-contractors-toowoomba/",
+      "anchor": "Fencing Contractors Toowoomba: A Practical Boundary Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
